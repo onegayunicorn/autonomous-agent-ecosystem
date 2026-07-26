@@ -1,0 +1,6 @@
+{
+  "name": "AUTOHIVE — Autonomous Agent Ecosystem",
+  "description": "Complete AI Agents Ecosystem with Starter Pack, Marketplace, Multi-Agent Orchestration, On-Device & Cloud LLMs, and Decentralized Verification Simulation",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
